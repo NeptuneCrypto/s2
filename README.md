@@ -138,9 +138,9 @@
   <div class="cartas-container">
     <div class="carta">
       <h2>Suas iniciais 💖</h2>
-      <p><strong>I</strong> – 𝓘𝓷𝓬𝓻𝓲́𝓿𝓮𝓵 🤍</p>
+      <p><strong>I</strong> – 𝓘𝓷𝓿𝓮𝓷𝓬𝓲𝓿𝓮𝓵 🤍</p>
       <p><strong>S</strong> – 𝓢𝓸𝓻𝓻𝓲𝓼𝓸 🤎</p>
-      <p><strong>A</strong> – 𝓐𝓽𝓮𝓷𝓬𝓪̃𝓸 💜</p>
+      <p><strong>A</strong> – 𝓐𝓽𝓮𝓷𝓬𝓪𝓸 💜</p>
       <p><strong>B</strong> – 𝓑𝓮𝓲𝓳𝓸𝓼 💚</p>
       <p><strong>E</strong> – 𝓔𝓼𝓹𝓸𝓷𝓽𝓪𝓷𝓲𝓮𝓭𝓪𝓭𝓮 💙</p>
       <p><strong>L</strong> – 𝓛𝓮𝓪𝓵𝓭𝓪𝓭𝓮 💛</p>
