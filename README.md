@@ -170,7 +170,11 @@
       <p>💖 "Quando você está velho, tudo que você quer é sossego. Mas com você por perto, meu coração vive correndo."<br>🕒 1h 10min – Sophie sobre Howl a fazer sentir viva.</p>
       <p>🕊️ "Eu sempre estive atrás de você."<br>🕒 1h 50min – Sophie descobre que conheceu Howl na infância.</p>
     </div>
-  </div>
+    </div>
+
+     <audio controls autoplay loop>
+  <source src="isa/ovelhoeaflor.mp3" type="audio/mp3">
+   </audio>
 
 </body>
 </html>
