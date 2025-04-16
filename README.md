@@ -172,9 +172,5 @@
     </div>
     </div>
 
-     <audio controls autoplay loop>
-  <source src="isa/ovelhoeaflor.mp3" type="audio/mp3">
-   </audio>
-
 </body>
 </html>
