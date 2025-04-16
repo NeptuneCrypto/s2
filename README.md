@@ -62,7 +62,7 @@
 
   <center>
     <h1>𝙋𝙖𝙧𝙖 𝙖 𝙜𝙖𝙧𝙤𝙩𝙖 𝙙𝙤𝙨 𝙢𝙚𝙪𝙨 𝙨𝙤𝙣𝙝𝙤𝙨 🌹</h1>
-    <img src="sorriso.jpg" alt="sorriso" width='50%'>
+    <img src="sorriso.jpg" alt="sorriso" width='100%'>
   </center>
 
   <div class="cartas-container">
