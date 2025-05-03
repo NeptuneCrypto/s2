@@ -131,7 +131,7 @@
       <img src="date.jpg" alt="nós dois" width="300">
       <figcaption>Esse dia foi perfeito, como você. 💕</figcaption>
     </figure>
-    <p>Nosso primeiro date <time datetime="2025-04-01">01 de Abril de 2025</time>. ❤️</p>
+    <p>Nosso primeiro date <time datetime="2025-04-01">28 de Março de 2025</time>. ❤️</p>
   </center>
 
   <!-- Cartas lado a lado -->
